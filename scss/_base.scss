@@ -1,11 +1,24 @@
-body {
-    background: $bgcolor;
-    font-family: $basefont;
-}
+@import 'icon/*.png';
+@include all-icon-sprites;
 
-header {
-    h1 {
-        @include box;
-    }
-}
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    a {
+        display: inline-block;
+        width: 256px;
+        height: 256px;
+
+        span {
+            position: absolute;
+            top: -9999em;
+            left: -9999em;
+        } //go
+    } //icons
+} //li
+ 
+// <ul>
+// <li><a href="#" class="icon-bed"><span>hotel</span></a></li>
+// </ul>
 

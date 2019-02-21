@@ -3,7 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Developer: Ismael Garrido Mansoa
+    Site: http://creative.colorado.edu/~isga2439/
+    Email: isga2439@colorado.edu
+    Twitter: @igarrido_97
+    Location: Boulder, Colorado
 
 # THANKS
 
@@ -11,5 +15,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Standards: CSS3, HTML5
+    Components: Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Software: Software usado para el desarrollo del site.
